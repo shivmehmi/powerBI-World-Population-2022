@@ -13,7 +13,7 @@ Dataset: Kaggle (https://lnkd.in/d3XK6hHD) #kaggle
 Duration: Approx. 2 Hrs.
 
 Screen Shots:
-![Dashboard]([http://url/to/img.png](https://github.com/shivmehmi/powerBI-World-Population-2022/blob/main/1.jpeg))
+![Dashboard](http://url/to/img.png](https://github.com/shivmehmi/powerBI-World-Population-2022/blob/main/1.jpeg)
 ![India](https://github.com/shivmehmi/powerBI-World-Population-2022/blob/main/2.png)
 ![Top_N](https://github.com/shivmehmi/powerBI-World-Population-2022/blob/main/3.jpeg)
 
